@@ -10,14 +10,6 @@ firsts = live[live.birthord == 1]
 others = live[live.birthord != 1]
 
 def CohenEffectSize(group1, group2):
-    """Computes Cohen's effect size for two groups.
-    
-    group1: Series or DataFrame
-    group2: Series or DataFrame
-    
-    returns: float if the arguments are Series;
-             Series if the arguments are DataFrames
-    """
     diff = group1.mean() - group2.mean()
 
     var1 = group1.var()
