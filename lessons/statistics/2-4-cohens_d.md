@@ -2,7 +2,7 @@
 
 I have run the following set of codes to compute Cohen's d for **totalwgt_lb**. <br> The calculated result was -0.0887, compared to 0.0289 for the difference in pregnancy length, so the effect is ~3x stronger. 
 
-dasdf
+
 
 ```
 preg = nsfg.ReadFemPreg()
