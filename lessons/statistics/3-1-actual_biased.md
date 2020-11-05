@@ -9,7 +9,7 @@ pmf = thinkstats2.Pmf(resp.numkdhh, label='numkdhh')
 thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 
-# The below function computes the biased PMF we would get if we surveyed the children and asked them how many children under 18 (including themselves) are in their household.
+# The below function computes the biased PMF we would get if we surveyed the children and asked <br> them how many children under 18 (including themselves) are in their household.
 
 def BiasPmf(pmf, label):
     new_pmf = pmf.Copy(label=label)
