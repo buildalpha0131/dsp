@@ -88,7 +88,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 A: We need to calculate the probability that Elvis was an identical twin, **given the condition that he had a twin brother**. A fraternity twin could be the same sex or different sex. If we assume there is a 50% chance it is the same sex, the probabilty of having a same sex fraternal twin in the population is 1/125 x 1/2 = 1/250. 
 
-There for the the probability that Elvis was an identical twin is (1/300) / ((1/300) + (1/250)) = **45.5%**.  
+Therefore, the probability that Elvis was an identical twin is (1/300) / ((1/300) + (1/250)) = **45.5%**.  
 
 ---
 
