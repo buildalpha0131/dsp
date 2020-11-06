@@ -1,6 +1,8 @@
 [Think Stats Chapter 8 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77) (scoring)
 
-As sample size increases both standard error and the width of the confidence interval decrease.
+---
+When n = 10, standard error = 0.83 and confidence interval = (1.31, 3.71). As sample size increases both standard error and the width of the confidence interval decrease.
+---
 
 ```
 import numpy as np
