@@ -1,7 +1,9 @@
 [Think Stats Chapter 7 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2008.html#toc70) (weight vs. age)
 
 The scatterplot shows a weak relationship between the variables.      
+
 Pearson's correlation is ~0.07, and Spearman's is ~0.09, so the difference between them suggests some influence of outliers or a non-linear relationship.     
+
 Plotting percentiles of weight versus age suggests that the relationship is non-lionear, with birth weight increasing more quickly in the younger age range.     
 
 ```
