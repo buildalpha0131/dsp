@@ -1,9 +1,9 @@
 [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60) (household income)
 
-Median = 51226.45
-Mean = 74278.71
-Skewness = 4.95
-Pearson's Skewness = 0.74
+Median = 51226.45. 
+Mean = 74278.71. 
+Skewness = 4.95. 
+Pearson's Skewness = 0.74. 
 
 About 66% of households report a taxable income below the mean. If we increase the assumed upper bound, the difference between the mean and median would become larger and both Skewness and Pearson's Skewness would be higher (even more skewed to the right).
 
