@@ -81,4 +81,4 @@ Mean(sample), Median(sample)
 Skewness(sample), PearsonMedianSkewness(sample)
 
 cdf.Prob(Mean(sample))
-'''
+```
